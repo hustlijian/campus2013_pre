@@ -6,6 +6,7 @@ The 8th(2013) ACM Programming Contest of HUST - Preliminary Contest
 Status
 ------
 AC: B,E,F
+
 NA: A,C,D
 
 author
